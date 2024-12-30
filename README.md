@@ -1,2 +1,2 @@
 # estudo
-Repositório dos exercícios de aula e desafios.
+Repositório de exercícios e desafios.
